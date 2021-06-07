@@ -23,7 +23,7 @@
 - [Animal Farm](https://sugarfabby.com/book-notes/animal-farm) by George Orwell
 - [12 Rules For Life - An Antidote to Chaos](https://sugarfabby.com/book-notes/12-rules-for-life) by Jordan Peterson
 #### 📰 Articles
-- [How to Stop Living Poorly](https://sugarfabby.com/blog/how-to-stop-living-poor-and-grow-your-wealth)
+- [How to Stop Living Poor and Grow Your Wealth](https://sugarfabby.com/blog/how-to-stop-living-poor-and-grow-your-wealth)
 - [5 React Native Libraries You Might Have Missed](https://sugarfabby.com/blog/5-react-native-libraries-you-might-have-missed)
 - [Create Feature Flags For Your React App with Firebase Remote Config](https://sugarfabby.com/blog/create-feature-flags-for-your-react-app-with-firebase-remote-config)
 ---
