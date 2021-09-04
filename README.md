@@ -2,6 +2,7 @@
 
 ### ✍️  Recent Posts
 #### 📚  Book Notes
+- [The Quick and Easy Way to Effective Speaking](https://sugarfabby.com/book-notes/the-quick-and-easy-way-to-effective-speaking) by Dale Carnegie
 - [Animal Farm](https://sugarfabby.com/book-notes/animal-farm) by George Orwell
 - [12 Rules For Life - An Antidote to Chaos](https://sugarfabby.com/book-notes/12-rules-for-life) by Jordan Peterson
 #### 📰  Articles
