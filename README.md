@@ -11,6 +11,3 @@
 - [How to Stop Living Poor and Grow Your Wealth](https://sugarfabby.com/blog/how-to-stop-living-poor-and-grow-your-wealth)
 
 Read more @ [sugarfabby.com](https://sugarfabby.com)
-
----
-![Profile views](https://gpvc.arturio.dev/fabianlee1211)
